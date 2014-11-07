@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Shehryar Riaz
-description:
+description: "My personal website. Please excuse the mess, it's a work in progress."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
@@ -27,7 +27,7 @@ owner:
   google:
     ad-client: 
     ad-slot: 
-  bio: 
+  bio: "I make things."
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
