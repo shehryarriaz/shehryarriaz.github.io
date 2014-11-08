@@ -1,9 +1,9 @@
 ---
 layout: media
-title: Agency
+title: Agency | Board game
 modified:
 categories: portfolio
-excerpt: Board game
+excerpt: Board game I designed at the NYU Game Center.
 tags: [work, portfolio]
 image:
   feature: feature-filler.jpg
