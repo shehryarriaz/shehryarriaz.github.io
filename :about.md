@@ -3,6 +3,8 @@ layout: media
 permalink: /about/
 title: "About"
 share: false
+image:
+  feature: feature-filler.jpg
 ---
 
 <p>Hi, I'm Shehryar. Nice to meet you.</p>
