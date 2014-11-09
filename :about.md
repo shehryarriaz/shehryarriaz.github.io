@@ -3,11 +3,13 @@ layout: media
 permalink: /about/
 title: "About"
 share: false
-image:
-  feature: feature-filler.jpg
 ---
 
 <p>Hi, I'm Shehryar. Nice to meet you.</p>
+
+<figure class="full">
+  <img src="{{ site.url }}/images/headshot_main.jpg">
+</figure>
 
 <p>I’m a web developer and game desinger. I believe in creating products and experiences that are both functional and beautiful. At the moment, I’m looking for a full-time role with a driven team who focus on design and usability as much as engineering.</p>
 
