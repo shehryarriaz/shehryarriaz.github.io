@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /
-title: "Hi, I'm Shehryar. I make things for the web."
+title: "I'm Shehryar. I make things out of code and pixels."
 ---
 
-<p>This is my personal website. Please excuse the mess as it's a work in progress.</p>
+<p>Full-stack web developer passionate about code and design.</p>
 
 <h2>Latest work</h2>
 

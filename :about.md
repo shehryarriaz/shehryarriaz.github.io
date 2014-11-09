@@ -9,4 +9,23 @@ image:
 
 <p>Hi, I'm Shehryar. Nice to meet you.</p>
 
-<p>I believe in creating products and experiences that are both functional and beautiful. After studying interactive media and game design for my undergraduate degree I spent two years in finance. I joined General Assembly to return to my love of designing digital products, and to learn how to build them from the ground up myself. I feel empowered to take on new challenges, continue learning, and am keen to put my skills to use. I am looking for a full-time role within a driven team who focus on design and usability as much as engineering.</p>
+<p>I’m a web developer and game desinger. I believe in creating products and experiences that are both functional and beautiful. At the moment, I’m looking for a full-time role with a driven team who focus on design and usability as much as engineering.</p>
+
+<p>For my undergraudate degree I studied Media, Culture, and Communication at New York University with a focus on game design at the <a href="http://gamecenter.nyu.edu/">NYU Game Center</a>. I started my career as an assistant project manager in finance, predominantly working on large-scale service implemenations. Recently however, I joined <a href="https://generalassemb.ly/">General Assembly’s</a> Web Development Immersive as a student to return to my love of designing and building digital products.</p>
+
+<p>When I’m not coding I can be found hiking, sketching, painting, or immersed in the latest indie game.</p>
+
+<p> Please take a look at <a href="{{ site.url }}/assets/ShehryarRiaz_CV.pdf"><strong>my CV</strong></a> if you're interested in working together.</p>
+
+<hr />
+
+<h2>Contact Me</h2>
+
+<p>I'm always up for a chat.</p>
+
+<ul>
+  <li>Email | shehryarriaz@gmail.com</li>
+  <li>Github | github.com/shehryarriaz</li>
+  <li>LinkedIn | linkedin.com/in/shehryarriaz</li>
+  <li>Twitter | twitter.com/osamhain</li>
+</ul>
