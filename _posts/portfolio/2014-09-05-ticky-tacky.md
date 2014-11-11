@@ -14,9 +14,3 @@ ads: false
 <p>Made at General Assembly </p>
 
 <p>Sole developer of this tic-tac-toe Rails app, offering users correspondence games with multiple players or a computer.</p>
-
-<figure class="half">
-  <img src="{{ site.url }}/images/{{ page.image.feature }}">
-  <img src="{{ site.url }}/images/{{ page.image.feature }}">
-  <figcaption>Small game images.</figcaption>
-</figure>
