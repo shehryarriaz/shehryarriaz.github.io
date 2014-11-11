@@ -1,1 +1,1 @@
-My personal website.
+My personal website. I expect it to always be a work in progress. Can't fault continuous improvement.

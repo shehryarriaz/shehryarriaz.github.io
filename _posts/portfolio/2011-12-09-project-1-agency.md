@@ -11,7 +11,7 @@ image:
   thumb:
 ads: false  
 ---
-<p>Board game | NYU Game Center </p>
+<p>Made at the NYU Game Center </p>
 
 <figure class="half">
   <img src="{{ site.url }}/images/{{ page.image.feature }}">

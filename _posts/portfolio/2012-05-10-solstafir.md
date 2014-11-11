@@ -11,7 +11,7 @@ image:
   thumb:
 ads: false  
 ---
-<p>Video game | NYU Game Center </p>
+<p>Made at the NYU Game Center </p>
 
 <p>Producer, game designer and artist on this first-person puzzle game created with the Unity engine. Won best digital game at the NYU Game Center student showcase.</p>
 

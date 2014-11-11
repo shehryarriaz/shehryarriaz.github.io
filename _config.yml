@@ -3,9 +3,9 @@
 title: Shehryar Riaz
 description: "My personal website. Please excuse the mess, it's a work in progress."
 logo: # 120x120 px default image used for Twitter summary card
-teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
+teaser: teaser-filler.jpg # 400x250 px default teaser image used in image archive grid
 locale:
-url: "http://shehryarriaz.com"
+# url: "http://shehryarriaz.com"
 
 # Jekyll configuration
 
