@@ -6,8 +6,8 @@ categories: portfolio
 excerpt: Video game made with Unity I produced, designed and, did artwork for.
 tags: [work, portfolio]
 image:
-  feature: feature-filler.jpg
-  teaser:
+  feature: solstafir_span.jpg
+  teaser: solstafir_small.jpg
   thumb:
 ads: false  
 ---
